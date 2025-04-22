@@ -1,0 +1,30 @@
+{
+  "name": "french-business-days",
+  "version": "1.0.0",
+  "description": "A Node.js tool to calculate business days in France, excluding weekends and public holidays.",
+  "main": "src/script.js",
+  "bin": {
+    "french-business-days": "./src/script.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "business days",
+    "France",
+    "holidays",
+    "calendar"
+  ],
+  "author": "Mike Romain <mchlrmn@me.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/french-business-days.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/french-business-days/issues"
+  },
+  "homepage": "https://github.com/yourusername/french-business-days#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
