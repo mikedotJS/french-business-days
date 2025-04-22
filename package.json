@@ -1,6 +1,6 @@
 {
   "name": "french-business-days",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Node.js tool to calculate business days in France, excluding weekends and public holidays.",
   "main": "src/script.js",
   "bin": {
