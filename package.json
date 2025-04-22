@@ -19,12 +19,12 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/french-business-days.git"
+    "url": "https://github.com/mikedotjs/french-business-days.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/french-business-days/issues"
+    "url": "https://github.com/mikedotjs/french-business-days/issues"
   },
-  "homepage": "https://github.com/yourusername/french-business-days#readme",
+  "homepage": "https://github.com/mikedotjs/french-business-days#readme",
   "dependencies": {},
   "devDependencies": {}
 }
